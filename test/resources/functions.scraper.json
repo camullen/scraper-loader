@@ -1,0 +1,16 @@
+{
+  "functions_data": {
+    "url": "https://support.office.com/en-us/article/Excel-functions-alphabetical-b3944572-255d-4efb-bb96-c6d90033e188",
+    "selector": "#tblID0EBEAAA tbody tr td p a.ocpArticleLink",
+    "find_one": false,
+    "data": {
+      "text": {
+        "func": "text"
+      },
+      "href": {
+        "func": "attr",
+        "args": [ "href" ]
+      }
+    }
+  }
+}
